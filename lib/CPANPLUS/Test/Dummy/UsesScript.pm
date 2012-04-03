@@ -1,6 +1,6 @@
 package CPANPLUS::Test::Dummy::UsesScript;
 {
-  $CPANPLUS::Test::Dummy::UsesScript::VERSION = '0.0002';
+  $CPANPLUS::Test::Dummy::UsesScript::VERSION = '0.0004';
 }
 
 #ABSTRACT: CPANPLUS Test Dummy
@@ -20,7 +20,7 @@ CPANPLUS::Test::Dummy::UsesScript - CPANPLUS Test Dummy
 
 =head1 VERSION
 
-version 0.0002
+version 0.0004
 
 =head1 SYNOPSIS
 

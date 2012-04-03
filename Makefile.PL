@@ -22,7 +22,7 @@ my %WriteMakefileArgs = (
   "PREREQ_PM" => {
     "CPANPLUS::Test::Dummy::HasScript" => "0.0004"
   },
-  "VERSION" => "0.0002",
+  "VERSION" => "0.0004",
   "test" => {
     "TESTS" => "t/*.t"
   }
